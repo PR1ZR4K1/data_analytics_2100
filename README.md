@@ -11,5 +11,5 @@ I've tried to track all necessary libraries. Install with:
 ## Good to Know
 
 - For any of the datasets I use I will only be tracking the zipped file for github.
-- The contents are pretty big and unnecessary to have unzipped. 
+- The contents are unnecessary to have unzipped. 
 
